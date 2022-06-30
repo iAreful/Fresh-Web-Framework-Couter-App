@@ -44,8 +44,8 @@ This will watch the project directory and restart as necessary.
 <br/>
 <br/>
 
-## Footer Note
-# To more aboute `fresh Web Freamwork`, Surfing on `https://fresh.deno.dev/` 😃
+# Footer Note
+## To more aboute `fresh Web Freamwork`, Surfing on `https://fresh.deno.dev/` 😃
 
 
 ```
